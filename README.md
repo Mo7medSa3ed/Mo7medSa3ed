@@ -21,8 +21,12 @@
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mo7medSa3ed&theme=github_dark" alt="mo7medsa3ed" /></p>
 
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mo7medSa3ed&theme=github_dark" alt="mo7medsa3ed" /></p>
 
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mo7medSa3ed&theme=github_dark" alt="mo7medsa3ed" /></p>
+
+<div>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mo7medSa3ed&theme=github_dark" alt="mo7medsa3ed" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mo7medSa3ed&theme=github_dark" alt="mo7medsa3ed" />
+
+</div>
 
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mo7medSa3ed&theme=github_dark" alt="mo7medsa3ed" /></p>
