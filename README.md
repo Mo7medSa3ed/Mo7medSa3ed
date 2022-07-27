@@ -23,4 +23,6 @@
 
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mo7medSa3ed&theme=github_dark" alt="mo7medsa3ed" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=mo7medsa3ed&](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mo7medSa3ed&theme=github_dark)" alt="mo7medsa3ed" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mo7medSa3ed&theme=github_dark" alt="mo7medsa3ed" /></p>
+
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mo7medSa3ed&theme=github_dark" alt="mo7medsa3ed" /></p>
