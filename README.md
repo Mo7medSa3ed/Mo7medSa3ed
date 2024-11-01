@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=A+Mobile+Application+Developer;Android+%26+Flutter+Developer;Freelancer;Always+learn+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=A+Liferay+Backend+Developer;Full+Stack+Developer;Android+%26+Flutter+Developer)](https://git.io/typing-svg)
 
 # 💫 About Me:
 A mobile developer with three years of experience. During these years, I carried out many different projects from which I gained unique experiences and then moved to flutter a two years ago to keep pace with development and gained hands on experience the cross platform mobile development (Flutter).
